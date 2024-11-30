@@ -1,5 +1,4 @@
 package org.Program;
-
 public class Produit {
     private int code;
     private String nom;
